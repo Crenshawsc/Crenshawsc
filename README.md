@@ -1,16 +1,26 @@
-## Hi there 👋
+# Korhan Calisir
 
-<!--
-**Crenshawsc/Crenshawsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | SEO & GEO Specialist** based in Istanbul.
 
-Here are some ideas to get you started:
+I build fast, multilingual websites in Next.js and help businesses get found by Google and by AI search engines (ChatGPT, Perplexity, Google AI Overviews).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- **Web development:** Next.js, Vercel, multilingual sites (TR, DE, EN), landing pages
+- **Technical SEO:** site audits, Core Web Vitals, schema markup, internal linking
+- **GEO (Generative Engine Optimization):** making sites visible in ChatGPT, Perplexity, Gemini and Google AI Overviews
+- **Local SEO:** Google Business Profile, local pack optimization
+
+## Current work
+
+Running [LinkReach](https://linkreach.com.tr), a B2B SEO and GEO agency serving US and DACH clients. Building tools for AI search visibility measurement.
+
+## Stack
+
+Next.js, Vercel, TypeScript, next-intl, Tailwind, WordPress, Elementor
+
+## Get in touch
+
+- Website: [linkreach.com.tr](https://linkreach.com.tr)
+- LinkedIn: [Korhan Calisir](https://linkedin.com/in/korhan-c-07abb21b8)
+- Email: korhan@linkreach.com.tr
